@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# my stuff
+cats_and_dogs_org/
+cats_and_dogs_small/
