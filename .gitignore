@@ -106,3 +106,6 @@ venv.bak/
 # my stuff
 cats_and_dogs_org/
 cats_and_dogs_small/
+glove/
+imdb_raw/
+pre_trained_glove_model.h5
